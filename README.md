@@ -41,7 +41,7 @@ from openpyxl import Workbook
 
 # --- Config ---
 ASANA_TOKEN = "your_token_here"
-PROJECT_GID = "1209184101505347"  # B2B Retailer Setup project
+PROJECT_GID = "XXXXXXXXXXXX"  # B2B Retailer Setup project
 BASE_URL = "https://app.asana.com/api/1.0"
 
 HEADERS = {
